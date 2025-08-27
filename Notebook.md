@@ -1,8 +1,7 @@
 ### Questions that we want to explore:
 
 
-# Numero pHAUREO -> ¿exist?
-
+  - Numero pHAUREO -> ¿exist?
   - Plasmid–phage abundance and size relationships
   - Correlation between plasmid load and phage load per genome: do genomes with more plasmids also carry more phages (temperate or virulent)?
   - Compare the proportion of the genome occupied by plasmids vs phages.
