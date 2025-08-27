@@ -1,4 +1,20 @@
-# Filtering the data
+### Questions that we want to explore:
+
+
+# Numero pHAUREO -> ¿exist?
+
+  - Plasmid–phage abundance and size relationships
+  - Correlation between plasmid load and phage load per genome: do genomes with more plasmids also carry more phages (temperate or virulent)?
+  - Compare the proportion of the genome occupied by plasmids vs phages.
+  - Chromosome size vs mobile element load: are larger chromosomes more permissive to plasmids and phages?
+  - Co-occurrence: Do genomes carrying certain plasmid types host fewer/more phages? (type of mobility/replicon type)
+  - Relative size scaling: is plasmid size correlated with phage size, suggesting competition for cellular resources?
+
+Defensive plasmid hypothesis: test whether genomes with plasmids carry fewer virulent phages (plasmids as infection barriers).
+
+
+
+## Filtering the data
 
 First, we download all genomes with more than 100 closed genome assemblies, and then we search for those with reads. 
 
