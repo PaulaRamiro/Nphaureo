@@ -1,4 +1,4 @@
-# 
+# Filtering the data
 
 First, we download all genomes with more than 100 closed genome assemblies, and then we search for those with reads. 
 
@@ -11,3 +11,6 @@ Then, we search for phage sequences with genomad, and we classify the phages as 
 
 *Bacphlip assemblies with phages = 3893 and 3966 phages*
 *After filtering by low % of the type: 3816 assemblies and 3885 phages*
+
+
+<img width="886" height="810" alt="image" src="https://github.com/user-attachments/assets/cabef22e-19a3-4b11-bf31-f53a4aedeb27" />
