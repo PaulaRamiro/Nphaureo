@@ -34,4 +34,4 @@ Then, we search for phage sequences with genomad, and we classify the phages as 
 
 ## Plasmids
 
-<img width="2940" height="1782" alt="image" src="https://github.com/user-attachments/assets/117fc8c6-527d-4c12-8c76-8091aad9c7bc" />
+<img width="2940" height="1782" alt="image" src="https://github.com/user-attachments/assets/5f621cae-e63e-4842-80fd-e8a1121d6870" />
