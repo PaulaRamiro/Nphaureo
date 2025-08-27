@@ -29,3 +29,9 @@ Then, we search for phage sequences with genomad, and we classify the phages as 
 
 
 <img width="886" height="810" alt="image" src="https://github.com/user-attachments/assets/cabef22e-19a3-4b11-bf31-f53a4aedeb27" />
+
+
+
+## Plasmids
+
+<img width="2940" height="1782" alt="image" src="https://github.com/user-attachments/assets/117fc8c6-527d-4c12-8c76-8091aad9c7bc" />
