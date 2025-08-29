@@ -3,7 +3,8 @@
 
   - Numero pHAUREO -> ¿exist?
   - Plasmid–phage abundance and size relationships
-  - Correlation between plasmid load and phage load per genome: do genomes with more plasmids also carry more phages (temperate or virulent)?
+  - *Correlation between plasmid load and phage load per genome: do genomes with more plasmids also carry more phages (temperate or virulent)?* 
+      The cor.test is significant but the correlation is low (~.025 for both temperate and virulent phages)
   - Compare the proportion of the genome occupied by plasmids vs phages.
   - Chromosome size vs mobile element load: are larger chromosomes more permissive to plasmids and phages?
   - Co-occurrence: Do genomes carrying certain plasmid types host fewer/more phages? (type of mobility/replicon type)
@@ -35,3 +36,9 @@ Then, we search for phage sequences with genomad, and we classify the phages as 
 ## Plasmids
 
 <img width="3449" height="1406" alt="path119" src="https://github.com/user-attachments/assets/198e500f-8674-4505-bb63-c66915b3834a" />
+
+
+
+## Correlation between number of phages and plasmids per genera
+
+<img width="2940" height="1782" alt="image" src="https://github.com/user-attachments/assets/3f2b8e3b-e3af-4fd5-80a7-05f44acca888" />
